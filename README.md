@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my git repository.
 <br>
-author- pratik maroo
+author- pratik maroo(srm)
